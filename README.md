@@ -65,11 +65,11 @@ It is a part of my portfolio to demonstrate practical web development skills.
 
 🔗 GitHub Repository:
 
-https://github.com/Taslima199507/Login-Signup-.git
+https://github.com/Mim3012957/Login-Signup-from.git
 
 Author
 
-Taslima
+Taslima Jahan Mim 
 🔧 Front-end Learner | Scholarship Applicant (GKS)
 📧 Contact:tmv301295@gmail.com
 
