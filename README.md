@@ -27,9 +27,7 @@ screenshot.png	Project preview (UI image)
 
 🔐 Login Page:
 
-![Login Screenshot] (https://raw.githubusercontent.com/Mim3012957/Login-Signup-from/main/login.jpg)
-
-📝 Sign Up Page:
+![Login Screenshot](https://raw.githubusercontent.com/Mim3012957/Login-Signup-from/main/login.jpg)
 
 ![Signup Screenshot](https://raw.githubusercontent.com/Mim3012957/Login-Signup-from/main/signup.jpg)
 
