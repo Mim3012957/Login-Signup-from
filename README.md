@@ -73,5 +73,4 @@ Taslima Jahan Mim
 🔧 Front-end Learner | Scholarship Applicant (GKS)
 📧 Contact:tmv301295@gmail.com
 
-Valo kore check koro and link e ki tmi dukte parteco kina dekho to
 
